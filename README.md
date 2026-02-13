@@ -1,33 +1,40 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Akhil+AS;Python+%7C+Django+%7C+React+Developer;Always+Learning+New+Things)
-![GitHub Streak](https://streak-stats.demolab.com?user=akhil0-7&theme=chartreuse-dark&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=akhil0-7&theme=dark-smoky"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&color=0AFFEF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;I+am+a+Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+Django+%7C+React"/>
+    </td>
+  </tr>
+</table>
 
 
-👋 Hi, I'm Akhil AS
+👋 Hi, I'm `Akhil AS`
 
-🎓 Computer Science Student | 💻 Full Stack Developer
+🎓 Computer Science Student | 💻 Full Stack Web Developer
 🚀 I love building real-world projects using Python & Web Technologies
 
-🔥 GitHub Streak
-
-📊 GitHub Stats
-
-🧑‍💻 Tech Stack
-
-Languages & Frameworks
+### Languages & Frameworks
 
 🐍 Python, Django, Flask
 
 ⚛️ React, JavaScript
 
-🌐 HTML, CSS, Bootstrap
+🌐 HTML, CSS
 
-Database & Tools
+### Database & Tools
 
 🗄️ SQLite, PostgreSQL, MongoDB
 
 🧰 Git, GitHub, VS Code
 
-🚀 Projects
+### 🚀 Projects
 
 ✅ Student Attendance System (Django + React)
 
@@ -39,7 +46,7 @@ Database & Tools
 
 ✅ Personal Portfolio Website
 
-🌱 Currently Learning
+### 🌱 Currently Learning
 
 Full Stack Development
 
@@ -47,12 +54,12 @@ REST APIs
 
 Cloud & Deployment
 
-📫 Connect With Me
+### 📫 Connect With Me
 
 💼 LinkedIn: https://linkedin.com/in/akhil-as-4b2a1a252
 
-📧 Email: yourmail@gmail.com
+📧 Email: asakhil990@gmail.com
 
-⚡ Fun Fact
+### ⚡ Fun Fact
 
 I enjoy solving real-world problems using code and turning ideas into applications 🚀
