@@ -17,7 +17,7 @@
 
 👋 Hi, I'm `Akhil AS`
 
-🎓 Computer Science Student | 💻 Full Stack Web Developer
+🎓 B.Tech Computer Science Graduate | 💻 Full Stack Web Developer
 🚀 I love building real-world projects using Python & Web Technologies
 
 ### Languages & Frameworks
