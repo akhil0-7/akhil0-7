@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&color=0AFFEF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;I+am+a+Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+Django+%7C+React"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&color=0AFFEF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;I+am+a+Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+React;FastApi+%7C+Django+%7C+Flask"/>
     </td>
   </tr>
 </table>
@@ -22,7 +22,7 @@
 
 ### Languages & Frameworks
 
-🐍 Python, Django, Flask
+🐍 Python, Django, FastApi, Flask
 
 ⚛️ React, JavaScript
 
